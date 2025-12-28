@@ -1,13 +1,3 @@
-cd client
-rm -rf build
-npm run build
-```
-
-It will recreate the `build` folder from `public` and `src`.
-
----
-
-## 📝 Make Sure `.gitignore` is Correct
 
 Your `client/.gitignore` should have:
 ```
